@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @cgal-capco
+- 👋 Hi, I'm Camilo Galiana
 - 👀 I’m interested in Mobile development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- You can find my main Github Account at [@cjgaliana](https://github.com/cjgaliana)
 
 <!---
 cgal-capco/cgal-capco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
